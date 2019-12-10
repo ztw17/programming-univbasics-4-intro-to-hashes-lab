@@ -1,13 +1,11 @@
 def new_hash
-  new_hash = {
-  }
+  new_hash = {}
 end
 
 def my_hash {
     :dog => "German Shepherd"
     :dog_name => "Max"
   }
-my_hash
 end
 
 def pioneer
