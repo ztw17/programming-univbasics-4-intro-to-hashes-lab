@@ -5,7 +5,7 @@ end
 
 def my_hash
   my_hash = {
-    
+    :dog
   }
 end
 
