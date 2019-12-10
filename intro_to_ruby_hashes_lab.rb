@@ -2,7 +2,8 @@ def new_hash
   new_hash = {}
 end
 
-def my_hash {
+def my_hash 
+  my_hash = {
   :name => "Luca",
   :breed => "German Shepherd"
 }
