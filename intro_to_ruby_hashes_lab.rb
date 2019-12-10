@@ -15,6 +15,10 @@ def pioneer
   }
 end
 
+def pioneer
+  return newHash = {name: "Grace Hopper"}
+end
+
 def id_generator
  return newHash = {:id => 1}
 end
